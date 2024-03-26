@@ -12,5 +12,7 @@ Instructions to use chatbot<br />
 7.	**Question 3** --> "What is the in-state tuition?"<br />
 8.	**Question 4** --> "Does its have on campus housing?"<br />
 9.	End the chatbot saying ‘Thank you’. It will show the information you provided and also the chatbot creator’s information.<br />
+App Demo <br />
+![App Demo](/App_demo.PNG)
 
 
